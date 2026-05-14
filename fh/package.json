@@ -12,7 +12,7 @@
     "postinstall": "npm run build:icons && npm run msw:init"
   },
   "dependencies": {
-    "@casl/ability": "^6.7.3",
+    "@casl/ability": "^6.7.5",
     "@casl/vue": "^2.2.2",
     "@floating-ui/dom": "1.6.8",
     "@formkit/drag-and-drop": "^0.1.6",
@@ -38,7 +38,7 @@
     "prismjs": "^1.30.0",
     "roboto-fontface": "^0.10.0",
     "shepherd.js": "^13.0.3",
-    "swiper": "^11.2.10",
+    "swiper": "^12.1.2",
     "ufo": "^1.6.1",
     "unplugin-vue-define-options": "^1.5.5",
     "vue": "^3.5.22",
@@ -101,7 +101,7 @@
     "unplugin-auto-import": "^0.18.6",
     "unplugin-vue-components": "^0.27.5",
     "unplugin-vue-router": "0.8.8",
-    "vite": "^7.1.12",
+    "vite": "^7.3.3",
     "vite-plugin-vue-devtools": "8.0.2",
     "vite-plugin-vue-meta-layouts": "^0.6.1",
     "vite-plugin-vuetify": "2.1.2",
